@@ -73,11 +73,11 @@ export default function LectureView() {
     <Layout>
       {lecture && (
         <Helmet>
-          <title>{lecture.title} — Calculus</title>
+          <title>{`${lecture.title} — Calculus`}</title>
           <meta name="description" content={`Calculus lecture: ${lecture.title}. Week ${lecture.weekNumber} of the free four-week calculus course with AI tutor.`} />
-          <link rel="canonical" href={`https://finance101.xyz/lectures/${lecture.id}`} />
+          <link rel="canonical" href={`https://calculus101.ink/lectures/${lecture.id}`} />
           <meta property="og:title" content={`${lecture.title} — Calculus`} />
-          <meta property="og:url" content={`https://finance101.xyz/lectures/${lecture.id}`} />
+          <meta property="og:url" content={`https://calculus101.ink/lectures/${lecture.id}`} />
         </Helmet>
       )}
       <div className="px-6 pt-4 pb-2">

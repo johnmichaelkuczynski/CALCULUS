@@ -16,11 +16,11 @@ export default function WeekView() {
     <Layout>
       {week && (
         <Helmet>
-          <title>Week {week.weekNumber}: {week.title} — Calculus</title>
+          <title>{`${week.title} — Calculus`}</title>
           <meta name="description" content={week.summary ?? undefined} />
-          <link rel="canonical" href={`https://finance101.xyz/weeks/${week.weekNumber}`} />
+          <link rel="canonical" href={`https://calculus101.ink/weeks/${week.weekNumber}`} />
           <meta property="og:title" content={`Week ${week.weekNumber}: ${week.title} — Calculus`} />
-          <meta property="og:url" content={`https://finance101.xyz/weeks/${week.weekNumber}`} />
+          <meta property="og:url" content={`https://calculus101.ink/weeks/${week.weekNumber}`} />
         </Helmet>
       )}
       <div className="p-8 max-w-4xl mx-auto w-full flex flex-col gap-8">

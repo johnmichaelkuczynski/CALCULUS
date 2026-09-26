@@ -62,3 +62,65 @@ type = "audio"
 title = "Economics narration 4"
 description = "Text-to-speech audio: Track your course progress and see which topics still need practice."
 logical_id = "5dc991dd-c0ba-485a-a0e4-7a33ee066b36"
+
+[[outputs]]
+id = "etNZ4aSMwz0coElBbDbl-"
+uri = "file://attached_assets/generated_audio/calculus-demo-2.mp3"
+type = "audio"
+title = "Calculus walkthrough narration 2"
+description = "Text-to-speech audio: Open a lesson and choose short, medium, or long. The mathematical notation stays readable, and the longer explanations include additional practice and worked solutions."
+logical_id = "bdf39635-75f2-46c6-ac19-acf7ca79bf76"
+
+[[outputs]]
+id = "OAxvv2PABwACDr3rqXTqV"
+uri = "file://attached_assets/generated_audio/calculus-demo-3.mp3"
+type = "audio"
+title = "Calculus walkthrough narration 3"
+description = "Text-to-speech audio: The math keyboard builds equations without memorizing commands. Here I insert a fraction, fill its two boxes, and build a limit. The preview shows the notation as I type."
+logical_id = "8218b9a6-163d-4941-9279-e187fe13d2a9"
+
+[[outputs]]
+id = "sPXgjCs_vMHhadswECSuY"
+uri = "file://attached_assets/generated_audio/calculus-demo-4.mp3"
+type = "audio"
+title = "Calculus walkthrough narration 4"
+description = "Text-to-speech audio: Now I ask why the instantaneous velocity is sixty-four at this point. The tutor answers beside the lesson, connecting the derivative to the original position function."
+logical_id = "21745ee1-d971-4c98-a820-3d0e7b7f2654"
+
+[[outputs]]
+id = "HyN71G-DRY9HOXf1v8cDk"
+uri = "file://attached_assets/generated_audio/calculus-demo-5.mp3"
+type = "audio"
+title = "Calculus walkthrough narration 5"
+description = "Text-to-speech audio: Homework uses the same equation editor. I enter the answers, move between problems, and reload the page. The saved answers remain available so I can continue where I left off."
+logical_id = "b8dbacd3-5d3f-4240-b849-190513268cb9"
+
+[[outputs]]
+id = "e9H49WPwUe0gm49ziJytz"
+uri = "file://attached_assets/generated_audio/calculus-demo-6.mp3"
+type = "audio"
+title = "Calculus walkthrough narration 6"
+description = "Text-to-speech audio: After submission, the app shows the score and feedback for each problem. This connects the lesson, mathematical writing, and assessment in one Calculus learning workflow."
+logical_id = "b570a6f6-97cd-4bae-9c83-24a8b0cba5e0"
+
+[[outputs]]
+id = "oDwsF_5P7be23Olo1uiqJ"
+uri = "file://attached_assets/generated_audio/calculus-demo-1.mp3"
+type = "audio"
+title = "Calculus walkthrough narration 1"
+description = "Text-to-speech audio: This is Calculus: a four-week course with twenty-nine lessons. The dashboard organizes the material from limits and derivatives through integration, applications, and series."
+logical_id = "2a4e49e1-a0de-4579-9a22-7da82cd7e30c"
+
+[[outputs]]
+id = "80ti5YWyJQhGcKisRaWpw"
+uri = "file://artifacts/qr-course-demo/public/calculus-demonstration.mp4"
+type = "video"
+title = "Calculus — narrated live demonstration"
+description = "69-second real app walkthrough, 1920×1080, masculine narration, no music or marketing overlays."
+logical_id = "21dcbe05-9b79-45a8-ba35-52bb57e595df"
+content_hash = "sha256:454821a745e5da9e74bcc47a2d2ee92eb1706bf51b6ea9befedd226a3f6177c9"
+size = 6965812
+mtime_ms = 1790453404669
+storage_uri = "gcs://replit-rams-assets-riker/rams/assets/repl:1042907f-5028-4d98-b9c6-d43529b258f2/21dcbe05-9b79-45a8-ba35-52bb57e595df/d292ad71-ff27-4a5c-a8f5-76264ad32fbc"
+storage_version_token = "1790453464542300"
+content_type = "video/mp4"

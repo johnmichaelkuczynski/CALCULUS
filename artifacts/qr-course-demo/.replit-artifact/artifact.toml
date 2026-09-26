@@ -1,6 +1,7 @@
 kind = "video"
+videoAspectRatio = "16:9"
 previewPath = "/qr-course-demo/"
-title = "Finance Demo Video"
+title = "Calculus — Live App Demonstration"
 version = "1.0.0"
 id = "artifacts/qr-course-demo"
 router = "path"

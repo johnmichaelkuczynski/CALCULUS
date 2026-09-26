@@ -26,7 +26,7 @@ const __dirname = path.dirname(fileURLToPath(import.meta.url));
 const distDir = path.resolve(__dirname, "..", "dist", "public");
 const publicDir = path.resolve(__dirname, "..", "public");
 
-const SITE_BASE = "https://finance101.xyz";
+const SITE_BASE = "https://calculus101.ink";
 const BASE_PATH = process.env.BASE_PATH ?? "/";
 
 // ---------------------------------------------------------------------------

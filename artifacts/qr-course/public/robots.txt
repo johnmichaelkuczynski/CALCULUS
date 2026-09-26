@@ -3,4 +3,4 @@ Allow: /
 Disallow: /diagnostics
 Disallow: /api/
 
-Sitemap: https://finance101.xyz/sitemap.xml
+Sitemap: https://calculus101.ink/sitemap.xml

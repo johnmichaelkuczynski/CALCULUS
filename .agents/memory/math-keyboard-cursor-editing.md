@@ -16,9 +16,8 @@ append/delete-at-end and breaks cursor-aware editing.
 
 **Why:** a blurred textarea still retains its last `selectionStart/selectionEnd`, so
 reading them directly inserts/deletes at the real caret even though focus is gone.
-The shared `AnswerInput` (graded) still uses the `activeElement` gate and therefore
-only edits at the end when you click a key; `MathChatInput` (tutor chat) reads the
-selection directly and is the correct pattern.
+This constraint applies to both graded answers and tutor chat, including shared
+editing hooks. Avoid reintroducing focus-dependent insertion during refactors.
 
 **How to apply:** when adding a math-keyboard-backed field, mirror `MathChatInput`:
 insert = `value.slice(0,start)+sym+value.slice(end)`, then restore caret via

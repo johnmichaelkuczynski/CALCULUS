@@ -1,16 +1,16 @@
-# Economics 101
+# Calculus — A Four-Week Course
 
-> A free, self-paced four-week economics course covering scarcity, opportunity cost, supply and demand, markets, policy, trade, and growth.
+> A free, self-paced four-week calculus course covering limits, derivatives, integration, applications of integration, and infinite series, with an AI tutor, adaptive practice, and graded work.
 
-Canonical home: https://finance101.xyz/
+Canonical home: https://calculus101.ink/
 
 ## Course weeks
 
-- [Week 1 — Foundations of choice and markets](https://finance101.xyz/weeks/1)
-- [Week 2 — Firms, consumers, and market structure](https://finance101.xyz/weeks/2)
-- [Week 3 — Macroeconomics and policy](https://finance101.xyz/weeks/3)
-- [Week 4 — Trade, development, and institutions](https://finance101.xyz/weeks/4)
+- [Week 1 — Limits and derivatives](https://calculus101.ink/weeks/1)
+- [Week 2 — Differentiation techniques and applications](https://calculus101.ink/weeks/2)
+- [Week 3 — Integration](https://calculus101.ink/weeks/3)
+- [Week 4 — Applications of integration and infinite series](https://calculus101.ink/weeks/4)
 
-Individual lectures are available beneath `https://finance101.xyz/lectures/{id}`, where `{id}` is the lecture identifier.
+Individual lectures are available beneath `https://calculus101.ink/lectures/{id}`, where `{id}` is the lecture identifier.
 
-For the complete inventory of course pages, see the [XML sitemap](https://finance101.xyz/sitemap.xml).
+For the complete inventory of course pages, see the [XML sitemap](https://calculus101.ink/sitemap.xml).

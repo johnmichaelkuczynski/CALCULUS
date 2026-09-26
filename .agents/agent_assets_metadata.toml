@@ -1,0 +1,64 @@
+uploads = []
+generated = []
+
+[[outputs]]
+id = "k9ub7M-_NtEMTP4gQFmL8"
+uri = "file://artifacts/qr-course-demo/public/audio/bg_music.mp3"
+type = "audio"
+title = "background music"
+logical_id = "58e6fa47-b0ed-4e50-b3a0-6710d06f7ab5"
+
+[[outputs]]
+id = "zpoa4kJaFwLQ67_UaLoks"
+uri = "file://BLUEPRINT.md"
+type = "text"
+title = "Finance — App Blueprint"
+logical_id = "d3992402-2c65-461d-b1d7-84425f24e842"
+
+[[outputs]]
+id = "Qy_X2LBlIn6rZvu3zMM8q"
+uri = "file://artifacts/economics-tiktok/public/audio/vo_01.mp3"
+type = "audio"
+title = "Economics course intro"
+description = "Text-to-speech audio: Economics 101 starts with a clear four-week plan. Open Week One and choose a lesson."
+logical_id = "8725034c-45ff-4360-a718-b9dfdc2226aa"
+
+[[outputs]]
+id = "Mzz9UEO49vrDRGEw0wIzD"
+uri = "file://artifacts/economics-tiktok/public/audio/vo_02.mp3"
+type = "audio"
+title = "Economics narration 2"
+description = "Text-to-speech audio: Switch explanation length when you need more detail, without losing your place."
+logical_id = "89a27c22-517d-4e19-be87-9625c100ee9d"
+
+[[outputs]]
+id = "Wafdtf6jwfng6lXGsJiZP"
+uri = "file://artifacts/economics-tiktok/public/audio/vo_03.mp3"
+type = "audio"
+title = "Economics narration 3"
+description = "Text-to-speech audio: Ask the tutor why a high price creates a surplus, and see the reasoning unfold."
+logical_id = "e0ad0be9-325a-4057-8ead-2ab4e3ebeb5a"
+
+[[outputs]]
+id = "5KxLZDS7a2vS5lmFj2yfu"
+uri = "file://artifacts/economics-tiktok/public/audio/vo_05.mp3"
+type = "audio"
+title = "Economics narration 5"
+description = "Text-to-speech audio: Work through supply and demand, submit your answer, and learn why it works."
+logical_id = "a93d98f7-9682-4245-9ef3-a32f5f005220"
+
+[[outputs]]
+id = "jYjDx7P-im6K3w5akvIm3"
+uri = "file://artifacts/economics-tiktok/public/audio/vo_06.mp3"
+type = "audio"
+title = "Economics narration 6"
+description = "Text-to-speech audio: Review assignments with useful feedback, then pick up exactly where you left off."
+logical_id = "7662fbe4-f122-4af3-a64d-1fb15ae9d61a"
+
+[[outputs]]
+id = "-7okgu65uNyqfOb_5a2wD"
+uri = "file://artifacts/economics-tiktok/public/audio/vo_04.mp3"
+type = "audio"
+title = "Economics narration 4"
+description = "Text-to-speech audio: Track your course progress and see which topics still need practice."
+logical_id = "5dc991dd-c0ba-485a-a0e4-7a33ee066b36"
